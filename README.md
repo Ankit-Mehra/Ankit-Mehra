@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-Mehra
-- 👀 I’m interested in  Machine Learning andArtificial Intelligence.
+- 👀 I’m interested in  Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning C#, JavaScript, Python and Machine Learning.
 - 💞️ I’m looking to collaborate on ...Machine Learning.
 - 📫 How to reach me ...LinkedIn 
